@@ -1,0 +1,8 @@
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.ApplicationService\bin\Debug\netstandard2.0\Com.LightLoan.ApplicationService.deps.json
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.ApplicationService\bin\Debug\netstandard2.0\Com.LightLoan.ApplicationService.dll
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.ApplicationService\bin\Debug\netstandard2.0\Com.LightLoan.ApplicationService.pdb
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.ApplicationService\obj\Debug\netstandard2.0\Com.LightLoan.ApplicationService.csprojAssemblyReference.cache
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.ApplicationService\obj\Debug\netstandard2.0\Com.LightLoan.ApplicationService.AssemblyInfoInputs.cache
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.ApplicationService\obj\Debug\netstandard2.0\Com.LightLoan.ApplicationService.AssemblyInfo.cs
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.ApplicationService\obj\Debug\netstandard2.0\Com.LightLoan.ApplicationService.dll
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.ApplicationService\obj\Debug\netstandard2.0\Com.LightLoan.ApplicationService.pdb

@@ -1,0 +1,8 @@
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Domain\bin\Debug\netstandard2.0\Com.LightLoan.Domain.deps.json
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Domain\bin\Debug\netstandard2.0\Com.LightLoan.Domain.dll
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Domain\bin\Debug\netstandard2.0\Com.LightLoan.Domain.pdb
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Domain\obj\Debug\netstandard2.0\Com.LightLoan.Domain.csprojAssemblyReference.cache
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Domain\obj\Debug\netstandard2.0\Com.LightLoan.Domain.AssemblyInfoInputs.cache
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Domain\obj\Debug\netstandard2.0\Com.LightLoan.Domain.AssemblyInfo.cs
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Domain\obj\Debug\netstandard2.0\Com.LightLoan.Domain.dll
+E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Domain\obj\Debug\netstandard2.0\Com.LightLoan.Domain.pdb
