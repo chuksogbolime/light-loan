@@ -1,8 +1,0 @@
-E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Infrastructure\bin\Debug\netstandard2.0\Com.LightLoan.Infrastructure.deps.json
-E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Infrastructure\bin\Debug\netstandard2.0\Com.LightLoan.Infrastructure.dll
-E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Infrastructure\bin\Debug\netstandard2.0\Com.LightLoan.Infrastructure.pdb
-E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Infrastructure\obj\Debug\netstandard2.0\Com.LightLoan.Infrastructure.csprojAssemblyReference.cache
-E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Infrastructure\obj\Debug\netstandard2.0\Com.LightLoan.Infrastructure.AssemblyInfoInputs.cache
-E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Infrastructure\obj\Debug\netstandard2.0\Com.LightLoan.Infrastructure.AssemblyInfo.cs
-E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Infrastructure\obj\Debug\netstandard2.0\Com.LightLoan.Infrastructure.dll
-E:\Projects\Com.LightLoan.Solutions\Com.LightLoan.Infrastructure\obj\Debug\netstandard2.0\Com.LightLoan.Infrastructure.pdb
