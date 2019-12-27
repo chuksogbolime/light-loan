@@ -45,7 +45,7 @@ namespace Com.LightLoan.Test.Persistence
                     Line2="Line2 Test",
                     City="City Test",
                     Country="Country Test",
-                    Status='N'
+                    Status=(char)Domain.Enums.Status.New
                 }, 
                 Phone1="Test Phone 1", Phone2="Test Phone 2",
                 HashValue1="Test Hash value 1", HashValue2="Test Hash value 2"
@@ -65,7 +65,7 @@ namespace Com.LightLoan.Test.Persistence
                     Line1="Line1 Test",
                     Line2="Line2 Test",
                     City="City Test",
-                    Country="Country Test",Status='N'
+                    Country="Country Test",Status=(char)Domain.Enums.Status.New
                 }, Phone1="Test Phone 1", Phone2="Test Phone 2",
                 HashValue1="Test Hash value 1", HashValue2="Test Hash value 2"
             };

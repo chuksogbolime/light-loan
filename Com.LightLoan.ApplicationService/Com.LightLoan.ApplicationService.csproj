@@ -9,4 +9,9 @@
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Com.LightLoan.Application\Com.LightLoan.Application.csproj" />
+    <ProjectReference Include="..\Com.LightLoan.Domain\Com.LightLoan.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
